@@ -3,6 +3,11 @@
 ## Description
 Custom Cars allows you to customize the paint and wheels of a vehicle as well as browse different customizations from other users. It also allows users to view vehicles from angles not available on manufacturer's websites.
 
+## Technologies Used
+- Javascript ES6+
+- Rails with PostgreSQL database backend
+- Fast JSON Api serializer
+
 ## Features
 
 ### Customization
