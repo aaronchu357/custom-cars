@@ -18,4 +18,5 @@ A user can give a nickname to their customized vehicle and also change it with a
 
 ### Browse
 You can look at what customizations other users have created and their nicknames on this page by clicking the "other garages" button.
+
 <img src="https://media.giphy.com/media/H6WqDcnz8J4uVxYr2t/giphy.gif" alt="browse" width="700"/>
