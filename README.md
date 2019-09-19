@@ -11,6 +11,7 @@ By clicking on a target, which is a color or a wheel, an event is triggered. Thi
 
 ### Angles
 During customization, users can click the left and right arrows on the image carousel to view a vehicle from several different angles.
+
 <img src="https://media.giphy.com/media/gIZd6P1WqfFOirfRC3/giphy.gif" alt="angles" width="700"/>
 
 ### Nickname
